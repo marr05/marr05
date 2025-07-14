@@ -31,15 +31,13 @@ I’m looking to grow in an environment where I can build, learn, and contribute
       <h3 align="center">Northeastern University</h3>
       <p align="center"><img src="https://brand.northeastern.edu/wp-content/uploads/2025/01/ac-grid-5-red.svg" alt="Northeastern University Logo" width="100"/></p>
       <p align="center"><strong>Boston, MA</strong></p>
-      <p align="center">Master of Science in Artificial Intelligence (Jan 2024 - Expected 2026)</p>
-      <p align="center">Relevant courses: Foundation of AI, Algorithms, Data Mining, NLP</p>
+      <p align="center">Master of Science in Artificial Intelligence </p>
     </td>
     <td width="50%">
       <h3 align="center">Maharashtra Institute of Technology - WPU</h3>
       <p align="center"><img src="https://media.collegedekho.com/media/img/institute/logo/android-chrome-192x192.png?width=48" alt="MIT-WPU Logo" width="100"/></p>
       <p align="center"><strong>Pune, India</strong></p>
-      <p align="center">Bachelor of Technology in Computer Science and Engineering (2021)</p>
-      <p align="center">Relevant courses: Machine Learning, Data Structures, Database Management</p>
+      <p align="center">Bachelor of Technology in Computer Science and Engineering </p>
     </td>
   </tr>
 </table>

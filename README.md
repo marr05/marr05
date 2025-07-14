@@ -49,4 +49,6 @@ The system leverages local LLMs via Ollama for privacy focussed, offline documen
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Open+to+Collaborations+🤝;Always+Learning+Something+New+🌱;Let's+Build+the+Future+Together+✨)!--
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Open+to+Collaborations+🤝;Always+Learning+Something+New+🌱;Let's+Build+the+Future+Together+✨)
+
+

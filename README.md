@@ -17,28 +17,46 @@ I’m looking to grow in an environment where I can build, learn, and contribute
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 📚 Academic Background
-* [cite_start]**Northeastern University, Boston, MA** [cite: 4]
-    * [cite_start]Master of Science in Artificial Intelligence [cite: 6] [cite_start](Jan 2024 - Expected Graduation: 2026) [cite: 9, 10]
-    * [cite_start]Related courses: Foundation of AI, Algorithms, Data Mining Techniques, Programming Design Paradigm, NLP [cite: 11]
-* [cite_start]**Maharashtra Institute of Technology - WPU, Pune, India** [cite: 7]
-    * [cite_start]Bachelor of Technology in Computer Science and Engineering (2021) [cite: 8, 16]
-    * [cite_start]Related courses: Machine Learning, Data Structures, Database Management [cite: 12]
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Northeastern University</h3>
+      <p align="center"><img src="https://brand.northeastern.edu/wp-content/uploads/2025/01/ac-grid-5-red.svg" alt="Northeastern University Logo" width="100"/></p>
+      <p align="center"><strong>Boston, MA</strong></p>
+      <p align="center">Master of Science in Artificial Intelligence (Jan 2024 - Expected 2026)</p>
+      <p align="center">Relevant courses: Foundation of AI, Algorithms, Data Mining, NLP</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Maharashtra Institute of Technology - WPU</h3>
+      <p align="center"><img src="https://media.collegedekho.com/media/img/institute/logo/android-chrome-192x192.png?width=48" alt="MIT-WPU Logo" width="100"/></p>
+      <p align="center"><strong>Pune, India</strong></p>
+      <p align="center">Bachelor of Technology in Computer Science and Engineering (2021)</p>
+      <p align="center">Relevant courses: Machine Learning, Data Structures, Database Management</p>
+    </td>
+  </tr>
+</table>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🌟 Professional Highlights
 
-* [cite_start]**Developer Analyst at Michelin India, Pune, India** (Jul 2021 - Jan 2024) [cite: 20, 21, 22]
-    * [cite_start]Coached and mentored over 100 non-technical users in developing Power Apps and Power Automate solutions, increasing technology adoption by 35%[cite: 23].
-    * [cite_start]Engineered a Power BI Dashboard and online portal to analyze attrition rates and track new hires, saving 150-man hours annually in HR data processing and decision-making[cite: 24].
-    * [cite_start]Architected an automated solution for monthly financial closure using Oracle API, Power Apps, and Power Automate, projected to save over 350 hours annually[cite: 25].
-    * [cite_start]Spearheaded the adoption and governance of Power Platform at an organizational level, leading to a 40% increase in user adoption and optimized licensing costs[cite: 26].
-    * [cite_start]Conducted global webinar series for 60-70 citizen developers per session, delivering over 15 hours of technical training on Power Platform development, improving technical literacy and significantly reducing manual task management worldwide[cite: 27].
-    * [cite_start]Received the Trendsetter Award for exceptional work on automation projects and won the Michelin Innovation Labs Hackathon 2022 (Runner-up in 2023 edition)[cite: 50, 51].
-
-* [cite_start]**Computer Science Intern at Centre for Development of Advanced Computing (C-DAC), Pune, India** (March 2020 - June 2020) [cite: 29, 30, 31]
-    * [cite_start]Developed a 'Reverse Face Image Search' program using OpenCV and CNN, achieving 90% accuracy in facial recognition[cite: 32].
-    * [cite_start]Engineered an image tagging system, automatically associating names with identified faces, improving search efficiency[cite: 33].
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Assistant Manager, Developer Analyst</h3>
+      <p align="center"><img src="https://admin.designsystem.michelin.com/uploads/attachments/clr7ixny900sf3if55nolggvf-michelin-logo-commercial.two-thirds.png" alt="Michelin Logo" width="100"/></p>
+      <p align="center"><strong>Michelin India, Pune, India</strong></p>
+      <p align="center">Led Power Platform adoption, automating processes, and training 100+ users to significantly boost efficiency and reduce manual hours.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Computer Science Intern</h3>
+      <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Logo_for_the_Centre_for_Development_of_Advanced_Computing.svg/500px-Logo_for_the_Centre_for_Development_of_Advanced_Computing.svg.png" alt="C-DAC Logo" width="100"/></p>
+      <p align="center"><strong>Centre for Development of Advanced Computing (C-DAC), Pune, India</strong></p>
+      <p align="center">Developed a 'Reverse Face Image Search' program with 90% accuracy and an image tagging system.</p>
+    </td>
+  </tr>
+</table>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -94,4 +112,5 @@ The system leverages local LLMs via Ollama for privacy focussed, offline documen
   <a href="https://linkedin.com/in/maitreya-darokar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:maitreya.mmd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Open+to+Collaborations+🤝;Always+Learning+Something+New+🌱)

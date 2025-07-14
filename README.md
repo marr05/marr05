@@ -33,7 +33,7 @@ I’m looking to grow in an environment where I can build, learn, and contribute
       <p align="center">Its a full stack web app that enables users to upload pdf documents and interact with them through natural language queries using Retrieval-Augmented Generation (RAG).
 The system leverages local LLMs via Ollama for privacy focussed, offline document analysis using vector embeddings for efficient semantic search and document retrieval with automatic cleanup and session management.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,websockets,ollama, langchain" />
+        <img src="https://skillicons.dev/icons?i=python,websockets,ollama,langchain,docker,chromadb" />
       </p>
     </td>
   </tr>
@@ -41,12 +41,13 @@ The system leverages local LLMs via Ollama for privacy focussed, offline documen
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/maitreya-darokar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maitreya.mmd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Open+to+Collaborations+🤝;Always+Learning+Something+New+🌱;Let's+Build+the+Future+Together+✨)

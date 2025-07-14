@@ -7,15 +7,20 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### 🚀 About Me
+### 💼 About Me
 
-[Write a compelling 2-3 paragraph introduction about yourself, your journey, and what you're passionate about]
+I’m a curious and driven problem-solver with a strong foundation in Artificial Intelligence, Machine Learning, and Data Science. Currently pursuing my Master’s in AI, my experience spans projects in Natural Language Processing, Computer Vision, Predictive Modeling, and Graph-Based AI systems—where I’ve developed practical, end-to-end solutions using both classical techniques and modern deep learning models.
+
+I’m actively seeking internship and full-time opportunities in the Machine Learning / AI industry, where I can contribute my technical skills, research mindset, and collaborative spirit. I’m especially excited about working on impactful problems in domains like healthcare, finance, and public interest, and I enjoy translating data and algorithms into tools that matter.
+
+🔧 My toolkit includes Python, PyTorch, TensorFlow, Scikit-learn, Hugging Face, Flask, Ollama, and modern ML pipelines. I’m also exploring technologies like RAG (Retrieval-Augmented Generation), Vector Databases, and Graph Neural Networks.
+
+I’m looking to grow in an environment where I can build, learn, and contribute—whether that’s through research-driven innovation or production-grade AI systems. Let’s connect if you’re hiring or working on something exciting!
 
 ### 💼 What I'm Working On
 
-🎯 Currently building: [Current project description]
-🌱 Learning: [What you're learning]
-🤝 Looking to collaborate on: [Collaboration interests]
+🎯 Currently building: A RAG System using Langchain to analyze and interact with documents, offline.
+🌱 Learning: I'm currently focussing on the use and impact of AI in Human Computer Interaction. 
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -28,7 +33,7 @@
       <p align="center">Its a full stack web app that enables users to upload pdf documents and interact with them through natural language queries using Retrieval-Augmented Generation (RAG).
 The system leverages local LLMs via Ollama for privacy focussed, offline document analysis using vector embeddings for efficient semantic search and document retrieval with automatic cleanup and session management.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+        <img src="https://skillicons.dev/icons?i=python,websockets,ollama, langchain" />
       </p>
     </td>
   </tr>

@@ -18,6 +18,7 @@ I’m looking to grow in an environment where I can build, learn, and contribute
 ### 💼 What I'm Working On
 
 🎯 Currently building: A RAG System using Langchain to analyze and interact with documents, offline.
+
 🌱 Learning: I'm currently focussing on the use and impact of AI in Human Computer Interaction. 
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

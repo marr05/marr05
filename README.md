@@ -32,9 +32,15 @@ I’m looking to grow in an environment where I can build, learn, and contribute
 The system leverages local LLMs via Ollama for privacy focussed, offline document analysis using vector embeddings for efficient semantic search and document retrieval with automatic cleanup and session management.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=python,ollama,langchain,docker,chromadb" />
-        ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_BASE64_ICON&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6452?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_BASE64_ICON&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-121212?style=for-the-badge&logo=llama&logoColor=white)
+        ## 🛠️ Tech Stack
+
+### Core Technologies
+![Python](https://skillicons.dev/icons?i=python,docker,kubernetes)
+
+### AI/ML Stack
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/🎨_ChromaDB-FF6452?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/🦙_Ollama-121212?style=for-the-badge)
       </p>
     </td>
   </tr>

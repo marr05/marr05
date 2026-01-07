@@ -50,13 +50,11 @@ I’m looking to grow in an environment where I can build, learn, and contribute
   <tr>
     <td width="50%">
       <h3 align="center">Assistant Manager, Developer Analyst</h3>
-      <p align="center"><img src="https://admin.designsystem.michelin.com/uploads/attachments/clr7ixny900sf3if55nolggvf-michelin-logo-commercial.two-thirds.png" alt="Michelin Logo" width="100"/></p>
       <p align="center"><strong>Michelin India, Pune, India</strong></p>
       <p align="center">Led Power Platform adoption, automating processes, and training 100+ users to significantly boost efficiency and reduce manual hours.</p>
     </td>
     <td width="50%">
       <h3 align="center">Computer Science Intern</h3>
-      <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Logo_for_the_Centre_for_Development_of_Advanced_Computing.svg/500px-Logo_for_the_Centre_for_Development_of_Advanced_Computing.svg.png" alt="C-DAC Logo" width="100"/></p>
       <p align="center"><strong>Centre for Development of Advanced Computing (C-DAC), Pune, India</strong></p>
       <p align="center">Developed a 'Reverse Face Image Search' program with 90% accuracy and an image tagging system.</p>
     </td>
